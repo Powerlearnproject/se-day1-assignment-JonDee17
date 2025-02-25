@@ -5,22 +5,22 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-. Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems.
-. it ensures the creation of reliable, scalable, and innovative software solutions that meet user needs.
+- Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems.
+- it ensures the creation of reliable, scalable, and innovative software solutions that meet user needs.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-. 1960s: Birth of software engineering as a discipline due to increasing software complexity. 
-. 1970s: the advent of structured programming to improve code readability.
-. 2000s-present: the rise of agile methodologies 
+- 1960s: Birth of software engineering as a discipline due to increasing software complexity. 
+- 1970s: the advent of structured programming to improve code readability.
+- 2000s-present: the rise of agile methodologies 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-.Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
-.Design: Creating high-level and detailed designs of the software architecture and user interface.
+- Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+- Design: Creating high-level and detailed designs of the software architecture and user interface.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-   . Waterfall: A sequential model (e.g., medical software) where each phase must be completed before moving to the next
-   . Agile: An iterative approach (e.g., mobile apps) with continuous development, feedback, and adaptation.
+   - Waterfall: A sequential model (e.g., medical software) where each phase must be completed before moving to the next
+   - Agile: An iterative approach (e.g., mobile apps) with continuous development, feedback, and adaptation.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
   -Software Developer: Responsible for writing code and implementing software solutions.
