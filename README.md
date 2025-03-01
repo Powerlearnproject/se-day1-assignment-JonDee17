@@ -31,7 +31,6 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 - Integrated Development Environments (IDEs): Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA).
 - Version Control Systems (VCS): Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion).
 
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 -Regular reassessment of project goals.
 -Agile methodologies.
@@ -45,7 +44,6 @@ Explain the different types of testing (unit, integration, system, and acceptanc
   - Unit Testing: Testing individual components or modules of software.
 
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 - Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models.
